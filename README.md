@@ -1,16 +1,18 @@
-### Hi there 👋
+**👋 Hello world**
 
-<!--
-**galabra/galabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gal, a people's person who'd passionate about solving creative challenges.
 
-Here are some ideas to get you started:
+Living in today's world, I'm fortunate to use code in my pursuit of impactful and scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe that in order to deliver a great SaaS product, one needs to understand its full lifecycle.<br />
+Thus, I'm excited to take part in system design, infrastructure, data pipelines, APIs, and also frontend development - up to product definitions and strategy. Some research and NLP are also great :)
+
+When I'm not working, I'm a passionate linguist, an [aspiring writer](https://galabra.medium.com) and an amateur cook.
+
+---
+
+**🤙 Hit me up**
+
+[![My Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://galabra.medium.com)
+[![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galabra)
+[![My StackOverflow Profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3103891/galabra)
