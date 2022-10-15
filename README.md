@@ -1,6 +1,6 @@
 **👋 Hello world**
 
-I'm Gal, a people's person who'd passionate about solving creative challenges.
+I'm Gal, a people's person who's passionate about solving creative challenges.
 
 Living in today's world, I'm fortunate to use code in my pursuit of impactful and scalable solutions.
 
